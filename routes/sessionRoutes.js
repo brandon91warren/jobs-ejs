@@ -1,5 +1,5 @@
 const express = require("express");
-const passport = require("passport"); // Uncomment this line
+const passport = require("passport");
 const router = express.Router();
 
 const {
